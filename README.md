@@ -1,7 +1,7 @@
-# GameEngines_Wiedl_Westphal_Unreal
+# GameEngines_Wiedl_Unreal
 
 #### Endless Runner Game
 
-Wie Temple Runner oder Subway Surfer
+Temple Runner or Subway Surfer
 
-### als mobile game
+### mobile game
